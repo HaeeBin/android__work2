@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ma01_20180961</string>
+    <string name="photo_url">https://maps.googleapis.com/maps/api/place/photo</string>
+    <string name="api_key">AIzaSyBRh3VtqTV0azMCDchIiEa2o_X8nhIx1Ns</string>
+    <string name="init_lat">37.604094</string>
+    <string name="init_lng">127.042463</string>
+</resources>
